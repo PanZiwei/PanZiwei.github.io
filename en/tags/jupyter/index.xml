@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>jupyter on Ziwei Pan 潘紫薇</title><link>https://ziweipan.me/en/tags/jupyter/</link><description>Recent content in jupyter on Ziwei Pan 潘紫薇</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; 2019-{year} Ziwei Pan</copyright><lastBuildDate>Wed, 04 Dec 2019 10:50:11 -0500</lastBuildDate><atom:link href="https://ziweipan.me/en/tags/jupyter/index.xml" rel="self" type="application/rss+xml"/><item><title>JupyterLab Keyboard Shortcut</title><link>https://ziweipan.me/en/posts/jupyterlab_keyboard_shortcut/</link><pubDate>Wed, 04 Dec 2019 10:50:11 -0500</pubDate><guid>https://ziweipan.me/en/posts/jupyterlab_keyboard_shortcut/</guid><description>Shortcut ESC takes users into command mode view
+ENTER takes users into cell mode view
+M change current cell to a markdown cell
+Y change current cell to a code cell
+R change current cell to a raw cell.
+A inserts a cell above the currently selected cell.</description></item></channel></rss>

@@ -1,0 +1,21 @@
+---
+title: "Ziwei Pan 潘紫薇"
+image: "avatar.png"
+#color1: "#CF8BF3"
+#color2: "#FDB99B"
+#angle: 130
+links:
+  - label: '`r fontawesome::fa("linkedin", height = "2em", fill="white")`'
+    url: "https://linkedin.com/ziweipan"
+  - label: '`r fontawesome::fa("file-alt", height = "2em", fill="white")`'
+    url: "https://www.notion.so/ziweipan/Ziwei-Pan-s-personal-blog-d6ddd8c4b0f9481781d4b45e53671146"
+  - label: '`r fontawesome::fa("github", height = "2em", fill="white")`'
+    url: "https://github.com/PanZiwei"
+  - label: '`r fontawesome::fa("paper-plane", height = "2em", fill="white")`'
+    url: "mailto:ziweipan9@gmail.com"
+output:
+#  postcards::onofre
+  postcards::jolla_blue
+---
+I am a Ph.D. student focus on genomics and epigenomics in Connecticut, USA. 
+I am a Turbulent Adventurer: ISFP-T.

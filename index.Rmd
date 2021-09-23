@@ -8,7 +8,7 @@ links:
   - label: '`r fontawesome::fa("linkedin", height = "2em", fill="white")`'
     url: "https://linkedin.com/ziweipan"
   - label: '`r fontawesome::fa("file-alt", height = "2em", fill="white")`'
-    url: "https://www.notion.so/ziweipan/Ziwei-Pan-s-personal-blog-d6ddd8c4b0f9481781d4b45e53671146"
+    url: "https://ziweipan.notion.site/Ziwei-Pan-s-blog-d6ddd8c4b0f9481781d4b45e53671146"
   - label: '`r fontawesome::fa("github", height = "2em", fill="white")`'
     url: "https://github.com/PanZiwei"
   - label: '`r fontawesome::fa("paper-plane", height = "2em", fill="white")`'

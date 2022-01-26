@@ -1,14 +1,14 @@
 ---
 title: "Ziwei Pan 潘紫薇"
-image: "avatar.png"
+image: "photo.jpg"
 #color1: "#CF8BF3"
 #color2: "#FDB99B"
 #angle: 130
 links:
   - label: '`r fontawesome::fa("linkedin", height = "2em", fill="white")`'
     url: "https://linkedin.com/ziweipan"
-  - label: '`r fontawesome::fa("file-alt", height = "2em", fill="white")`'
-    url: "https://ziweipan.notion.site/Ziwei-Pan-s-blog-d6ddd8c4b0f9481781d4b45e53671146"
+  - label: '`r fontawesome::fa("blog", height = "2em", fill="white")`'
+    url: "https://ziweipan.notion.site/ZIWEI-PAN-fa250ca3372a43f28c893150dbd555f1"
   - label: '`r fontawesome::fa("github", height = "2em", fill="white")`'
     url: "https://github.com/PanZiwei"
   - label: '`r fontawesome::fa("paper-plane", height = "2em", fill="white")`'
@@ -17,5 +17,8 @@ output:
 #  postcards::onofre
   postcards::jolla_blue
 ---
-I am a Ph.D. student focus on genomics and epigenomics in Connecticut, USA. 
-I am a Turbulent Adventurer: ISFP-T.
+Ph.D. student in computational biology in CT, USA. 
+
+Research interests: next-generation sequencing, epigenomics, machine learning
+
+Fun fact: Turbulent Adventurer (ISFP-T)

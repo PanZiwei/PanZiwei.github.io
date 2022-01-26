@@ -1,6 +1,6 @@
 ---
 title: "Ziwei Pan 潘紫薇"
-image: "photo.jpg"
+image: "avatar.jpg"
 #color1: "#CF8BF3"
 #color2: "#FDB99B"
 #angle: 130
@@ -19,6 +19,6 @@ output:
 ---
 Ph.D. student in computational biology in CT, USA. 
 
-Research interests: next-generation sequencing, epigenomics, machine learning
+Research interests: next-generation sequencing, epigenomics, data science, machine learning
 
 Fun fact: Turbulent Adventurer (ISFP-T)

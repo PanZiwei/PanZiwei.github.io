@@ -1,6 +1,6 @@
 ---
 title: "Ziwei Pan 潘紫薇"
-image: "avatar.jpg"
+image: "photo.jpg"
 #color1: "#CF8BF3"
 #color2: "#FDB99B"
 #angle: 130

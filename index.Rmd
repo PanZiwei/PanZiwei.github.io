@@ -6,18 +6,18 @@ image: "photo.jpg"
 #angle: 130
 links:
   - label: '`r fontawesome::fa("linkedin", height = "2em", fill="white")`'
-    url: "https://linkedin.com/ziweipan"
-  - label: '`r fontawesome::fa("blog", height = "2em", fill="white")`'
-    url: "https://ziweipan.notion.site/ZIWEI-PAN-fa250ca3372a43f28c893150dbd555f1"
+    url: "https://www.linkedin.com/in/ziweipan/"
+ # - label: '`r fontawesome::fa("blog", height = "2em", fill="white")`'
+ #   url: "https://ziweipan.notion.site/ZIWEI-PAN-fa250ca3372a43f28c893150dbd555f1"
   - label: '`r fontawesome::fa("github", height = "2em", fill="white")`'
     url: "https://github.com/PanZiwei"
   - label: '`r fontawesome::fa("paper-plane", height = "2em", fill="white")`'
-    url: "mailto:ziweipan9@gmail.com"
+    url: "mailto:panziwei9@gmail.com"
 output:
 #  postcards::onofre
   postcards::jolla_blue
 ---
-Ph.D. student in computational biology in CT, USA. 
+Recent Ph.D. in computational biology. 
 
 Research interests: next-generation sequencing, epigenomics, data science, machine learning
 

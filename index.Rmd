@@ -7,18 +7,16 @@ image: "photo.jpg"
 links:
   - label: '`r fontawesome::fa("linkedin", height = "2em", fill="white")`'
     url: "https://www.linkedin.com/in/ziweipan/"
- # - label: '`r fontawesome::fa("blog", height = "2em", fill="white")`'
- #   url: "https://ziweipan.notion.site/ZIWEI-PAN-fa250ca3372a43f28c893150dbd555f1"
   - label: '`r fontawesome::fa("github", height = "2em", fill="white")`'
     url: "https://github.com/PanZiwei"
   - label: '`r fontawesome::fa("paper-plane", height = "2em", fill="white")`'
-    url: "mailto:panziwei9@gmail.com"
+    url: "mailto:ziweipan9@gmail.com"
 output:
 #  postcards::onofre
   postcards::jolla_blue
 ---
-Recent Ph.D. in computational biology. 
+Ph.D. in STEM.
 
-Research interests: next-generation sequencing, epigenomics, data science, machine learning
+Research interests: data science, machine learning, biomedical science
 
 Fun fact: Turbulent Adventurer (ISFP-T)
